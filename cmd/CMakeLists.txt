@@ -1,0 +1,11 @@
+add_subdirectory(nasir)
+#add_subdirectory(nr)
+#add_subdirectory(nbre)
+
+if(Release)
+else()
+#add_subdirectory(rocksdb)
+#add_subdirectory(naxer)
+#add_subdirectory(dummy_neb)
+#add_subdirectory(util)
+endif()
